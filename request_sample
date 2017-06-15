@@ -1,0 +1,2 @@
+ERRORlocalhost:3000/stocker?function=addstock&name=xxx&amount=-100
+OKlocalhost:3000/stocker?function=sell&name=xxx&20&price=20&amount=20
